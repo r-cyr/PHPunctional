@@ -1,0 +1,14 @@
+{
+  "name": "PHPunctional",
+  "description": "Functional Programming Library For PHP",
+  "minimum-stability": "beta",
+  "license": "MIT",
+  "require": {
+    "phpunit/phpunit": "4.6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "P\\": ["P"]
+    }
+  }
+}
