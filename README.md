@@ -12,6 +12,8 @@ to be honest I'm surprised with the result.
 - All functions are curried
 - Collection API to work on arrays
 
+Some [examples](https://github.com/r-cyr/PHPunctional/tree/master/P/Examples) are available
+
 ##Remaining things to do:##
 - Documentation in Markdown format
 - More comments in code
